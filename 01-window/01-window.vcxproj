@@ -117,6 +117,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="..\..\..\..\..\Downloads\glad (1)\src\glad.c" />
     <ClCompile Include="Source.cpp" />
   </ItemGroup>
   <ItemGroup>
